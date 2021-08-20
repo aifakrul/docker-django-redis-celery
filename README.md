@@ -2,8 +2,8 @@
 Configuration of Docker Django Redis Celery
 
 ## Getting Started
-Python 3+ and Django 2+.
-Please, run the following command:
+I used Python 3+ and Django 2+.
+Please, run the following command and thats it.
 ```
 docker-compose up --build
 ```
